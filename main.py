@@ -68,7 +68,7 @@ class Game(arcade.Window):
        self.music = None
 
        # переменная для врагов
-       # self.enemy_sprite = None
+       self.enemy_sprite = None
        self.enemy_sprite_list = None
 
        self.status = True
