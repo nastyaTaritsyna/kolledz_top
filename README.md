@@ -1,3 +1,4 @@
 - практическая https://docs.google.com/spreadsheets/d/1T-DXwxIb1Bf20vOjJK2Pv20mOuaLCcAmQH9hn1A2rs4/edit?usp=sharing
 - распределение вариантов https://docs.google.com/document/d/14b1oLBl1zfhUrUoVR71N4DK4TYBjXHRh/edit?usp=drive_link&ouid=103372476318546836506&rtpof=true&sd=true
 - варианты https://drive.google.com/file/d/1CIgCUqmKHbwcZXCmbvSsT_RPj90n6wEs/view?usp=sharing
+- гугл встреча https://meet.google.com/mdg-tscw-nru
