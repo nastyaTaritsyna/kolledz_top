@@ -1,5 +1,5 @@
 - практическая https://docs.google.com/spreadsheets/d/1fttGIAu_nNoy_EIEN0ZD3OD9RLS_uTjsVOGOfvla4Os/edit?usp=sharing
 - распределение вариантов 
 - варианты 
-- гугл встреча 
+- гугл встреча https://meet.google.com/mxg-cnnn-uya
 - почта nastya.taritsyna@mail.ru 
