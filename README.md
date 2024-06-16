@@ -1,5 +1,3 @@
-- практическая https://docs.google.com/spreadsheets/d/1s9967MvxzB5CqBmytQS1UBsRk8TnieJN8q_2KTLo5ds/edit?usp=sharing
-- распределение вариантов 
-- варианты 
-- гугл встреча https://meet.google.com/soj-wtrc-opm
+- вопросы экз https://docs.google.com/document/d/1UgoV1F3y6aVTqAXLZPml20Mcliu0D_MebtRJHpnQnYM/edit?usp=sharing
+- задания экз https://docs.google.com/document/d/1aADRJYBqP17GWxciRT2IkKMV_LtkCm9mtv4MJs_DUII/edit?usp=sharing
 - почта nastya.taritsyna@mail.ru 
