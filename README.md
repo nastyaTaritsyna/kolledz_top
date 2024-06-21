@@ -1,3 +1,3 @@
 - вопросы экз https://docs.google.com/document/d/1UgoV1F3y6aVTqAXLZPml20Mcliu0D_MebtRJHpnQnYM/edit?usp=sharing
-- задания экз 
+- задания экз https://docs.google.com/document/d/1zM87XOsLVWpvqPVfoQc3mPdzp91gf5IXKwt15CIKkEA/edit?usp=sharing
 - почта nastya.taritsyna@mail.ru 
